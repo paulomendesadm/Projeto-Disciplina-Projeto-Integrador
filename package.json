@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/paulomendesadm/Projeto-Disciplina-Projeto-Integrador/issues"
   },
-  "homepage": "https://github.com/paulomendesadm/Projeto-Disciplina-Projeto-Integrador#readme"
+  "homepage": "https://github.com/paulomendesadm/Projeto-Disciplina-Projeto-Integrador#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^6.0.1"
+  }
 }
